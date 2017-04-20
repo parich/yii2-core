@@ -1,4 +1,4 @@
-# Yii2 Core
+# copy from Yii2 Core
 
 [![Total Downloads](https://poser.pugx.org/beaten-sect0r/yii2-core/downloads?format=flat-square)](https://packagist.org/packages/beaten-sect0r/yii2-core)
 [![Latest Stable Version](https://poser.pugx.org/beaten-sect0r/yii2-core/v/stable?format=flat-square)](https://packagist.org/packages/beaten-sect0r/yii2-core)
