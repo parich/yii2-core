@@ -49,3 +49,5 @@ It covers typical use cases for a new project and will help you not to waste you
 
 ![backend](docs/img/backend.png)
 ![frontend](docs/img/frontend.png)
+# yii2-coreOnMac
+# yii2-coreOnMac
